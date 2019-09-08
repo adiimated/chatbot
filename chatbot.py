@@ -72,5 +72,4 @@ for question in clean_answers:
         else:
             word2count[word] += 1
             
-#Creating two dictionaries that map the question words to a unique integer
-#Tokenization and filtering the non frequent words
+
